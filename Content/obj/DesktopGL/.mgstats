@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/gabri/Desktop/assets/background.png","D:/WORK/GamesMono/Game2d/Content/bin/DesktopGL/asset/background.xnb","TextureProcessor","Texture2DContent",39869,3200085,0,1441545
+"D:/WORK/GamesMono/Game2d/Content/asset/background.png","D:/WORK/GamesMono/Game2d/Content/bin/DesktopGL/asset/background.xnb","TextureProcessor","Texture2DContent",39869,3200085,0,3097843

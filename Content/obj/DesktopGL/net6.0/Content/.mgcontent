@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/background.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/bandeira.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/black.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/coin.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/Exitred.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/Exitwhite.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/floor.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/fonte.spritefont</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/fonteWin.spritefont</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/playerIdle.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/Playred.png</File>
+    <File>D:/WORK/GamesMono/Game2d/Content/asset/Playwhite.png</File>
+    <File>C:/Users/gabri/Desktop/assets/background.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>asset/background.png</File>
+  </DestFiles>
+</SourceFileCollection>
